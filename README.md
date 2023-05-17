@@ -3,11 +3,11 @@
 I'm a versatile developer who is currently focused on creating and modifying machine learning archetectures for fun audio applications.
 Currently I'm finishing my last year of a music & technology bachelor, after which I will start an artificial intelligence pre-master.
 
-My GitHub mainly contains experiments. If you want a good overview of my finished projects, I recommend you to go to my [website](www.wouterbesse.nl).
+My GitHub mainly contains experiments. If you want a good overview of my finished projects, I recommend you to go to my [website](https://www.wouterbesse.nl).
 I’m always looking to collaborate on fun audio/visual machine learning projects, and am glad to help with any info I can give.
 
 ## Get in contact :information_desk_person:
-[<img align="left" alt="wouterbesse.nl" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.wouterbesse.nl)
+[<img align="left" alt="wouterbesse.nl" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.wouterbesse.nl)
 [<img align="left" alt="Wouter Besse | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wouter-besse/)
 [<img align="left" alt="Stroop | YouTube" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCsmqnXUUenC7ebRohOo5yCA)
 <br/><br/>
