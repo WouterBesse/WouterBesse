@@ -2,7 +2,7 @@
 
 <img src="./Bass-Vo.gif" align="right" height="300px" />
 
-I'm a versatile developer who is currently focused on creating and modifying machine learning archetectures for fun audio applications.
+I'm a versatile developer who is currently focused on creating and modifying machine learning architectures for fun audio applications.
 Currently I'm finishing my last year of a music & technology bachelor, after which I will start an artificial intelligence pre-master.
 
 My GitHub mainly contains experiments. If you want a good overview of my finished projects, I recommend you to go to my [website](https://www.wouterbesse.nl).
