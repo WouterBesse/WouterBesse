@@ -35,6 +35,8 @@ I’m always looking to collaborate on fun audio/visual machine learning project
 <img align="left" alt="Unreal Engine" height="30px" src="https://www.svgrepo.com/show/342328/unreal-engine.svg" />
 <img align="left" alt="WordPress" height="30px" src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" />
 <img align="left" alt="Elementor" height="30px" src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.svg" />
+<img align="left" alt="R" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
+<img align="left" alt="GSAP" height="30px" src="https://gsap.com/favicon-32x32.png" />
 <br/>
 
 ### Learning
