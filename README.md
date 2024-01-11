@@ -26,6 +26,7 @@ I’m always looking to collaborate on fun audio/visual machine learning project
 <img align="left" alt="MaxMSP" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg" />
 <img align="left" alt="Vue3" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" alt="Tailwind" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<img align="left" alt="GSAP" height="30px" src="https://gsap.com/favicon-32x32.png" />
 <br/>
 
 ### Previously worked with
@@ -36,7 +37,7 @@ I’m always looking to collaborate on fun audio/visual machine learning project
 <img align="left" alt="WordPress" height="30px" src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" />
 <img align="left" alt="Elementor" height="30px" src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.svg" />
 <img align="left" alt="R" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />
-<img align="left" alt="GSAP" height="30px" src="https://gsap.com/favicon-32x32.png" />
+
 <br/>
 
 ### Learning
